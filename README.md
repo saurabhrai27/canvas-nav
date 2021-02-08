@@ -1,3 +1,3 @@
-# Profile REST API
+# Responsive Side Bar Menu
 
-Profile Rest API Mini Project Code.
+Simple Responsive Off Canvas Side Bar Menu Mini Project Code.
